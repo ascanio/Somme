@@ -1,0 +1,166 @@
+// out: styles.css, sourcemap: false, compress: false
+
+@import "reset.less";
+
+@dark-color: #121212;
+@acent-color: #FF2D54;
+@white: #FFFFFF;
+@grey: fade(@white, 30%);
+
+body {
+  background: @dark-color;
+}
+
+img {
+  width: 1315px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h1, h2, p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: @white;
+}
+
+h1 {
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+h2 {
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 28px;
+  font-weight: 100;
+}
+
+a {
+  color: @grey;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+#container {
+  width: 1440px;
+  text-align: center;
+  margin: 70px auto 0 auto;
+
+  #header {
+
+    h1 {
+      margin-bottom: 20px;
+    }
+
+    h2 {
+      margin-bottom: 30px;
+    }
+
+    p {
+      color: @acent-color;
+      font-size: 18px;
+      font-weight: 400;
+
+        #apple {
+          display: inline-block;
+          padding: 0 4px 0 4px;
+          width: 19px;
+          height: 24px;
+          text-indent:-9999px;
+          background-image: url("../images/apple.png");
+          background-size: 19px 24px;
+          background-repeat: no-repeat;
+          background-position: center;
+        }
+
+    }
+
+    #contact {
+      position: absolute;
+      display: block;
+      right: 50px;
+      top:30px;
+    }
+
+    #logo {
+      width: 173px;
+      height: 95px;
+      margin: 0 auto 40px auto;
+      display: block;
+      text-indent:-9999px;
+      background-image: url("../images/logo.png");
+      background-size: 173px 95px;
+      background-repeat: no-repeat;
+    }
+
+    div {
+      width: 520px;
+      margin: 0 auto;
+    }
+
+
+  }
+
+  #footer {
+    width: 990px;
+    margin: 40px auto 0 auto;
+    text-align: left;
+    color: @grey;
+    font-size: 12px;
+    position: relative;
+
+    #social {
+      margin-bottom: 20px;
+
+      li {
+        background-repeat: no-repeat;
+        text-indent:-9999px;
+        display: inline-block;
+        margin-right: 30px;
+      }
+
+      #fb {
+        width: 9px;
+        height: 18px;
+        background-image: url("../images/Fb.png");
+        background-size: 9px 18px;
+      }
+
+      #tw {
+        width: 20px;
+        height: 16px;
+        background-image: url("../images/Twitter.png");
+        background-size: 20px 16px;
+      }
+
+      #ig {
+        width: 18px;
+        height: 18px;
+        background-image: url("../images/Linkedin.png");
+        background-size: 18px 18px;
+      }
+
+    }
+
+    #links {
+
+      li {
+        display: inline;
+      }
+
+    }
+
+    #copyright {
+      display: block;
+      color: @grey;
+      position: absolute;
+      right: 0px;
+      bottom: 0px;
+    }
+
+  }
+
+}
