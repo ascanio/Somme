@@ -140,81 +140,11 @@ a img {
   }
 }
 @media all and (min-width: 768px) and (max-width: 1024px) {
-  #container,
-  #header div,
-  #footer,
+  #container {
+    width: 990px!important;
+  }
   #mockup {
-    width: 100%!important;
-  }
-  #header {
-    padding: 40px;
-  }
-  #header h1 {
-    font-size: 64px!important;
-    margin-bottom: 40px!important;
-    line-height: 80px!important;
-  }
-  #header h2 {
-    font-size: 36px!important;
-    line-height: 56px!important;
-    margin-bottom: 60px!important;
-  }
-  #header p {
-    font-size: 36px!important;
-  }
-  #header p #apple {
-    width: 38px!important;
-    height: 48px!important;
-    background-size: 38px 48px!important;
-  }
-  #footer ul {
-    padding: 0 20px;
-  }
-  #footer #copyright {
-    padding: 20px 20px;
-    position: relative!important;
-  }
-  #contact {
-    right: 30px!important;
-  }
-}
-@media all and (min-width: 480px) and (max-width: 768px) {
-  #container,
-  #header div,
-  #footer,
-  #mockup {
-    width: 100%!important;
-  }
-  #header {
-    padding: 40px;
-  }
-  #header h1 {
-    font-size: 64px!important;
-    margin-bottom: 40px!important;
-    line-height: 80px!important;
-  }
-  #header h2 {
-    font-size: 36px!important;
-    line-height: 56px!important;
-    margin-bottom: 60px!important;
-  }
-  #header p {
-    font-size: 36px!important;
-  }
-  #header p #apple {
-    width: 38px!important;
-    height: 48px!important;
-    background-size: 38px 48px!important;
-  }
-  #footer ul {
-    padding: 0 20px;
-  }
-  #footer #copyright {
-    padding: 20px 20px;
-    position: relative!important;
-  }
-  #contact {
-    right: 30px!important;
+    width: 990px!important;
   }
 }
 @media all and (max-width: 480px) {
@@ -239,7 +169,14 @@ a img {
   }
 }
 /* Portrait */
-@media screen and (orientation: portrait) {
+/* Landscape */
+@media screen and (orientation: landscape) {
+  /* Landscape styles here */
+}
+/* CSS for iPhone, iPad, and Retina Displays */
+/* Non-Retina */
+/* Retina */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   #container,
   #header div,
   #footer,
@@ -252,7 +189,7 @@ a img {
   #header h1 {
     font-size: 64px!important;
     margin-bottom: 40px!important;
-    line-height: 80px!important;
+    line-height: 80px;
   }
   #header h2 {
     font-size: 36px!important;
@@ -278,13 +215,6 @@ a img {
     right: 30px!important;
   }
 }
-/* Landscape */
-@media screen and (orientation: landscape) {
-  /* Landscape styles here */
-}
-/* CSS for iPhone, iPad, and Retina Displays */
-/* Non-Retina */
-/* Retina */
 /* iPhone Portrait */
 /* iPhone Landscape */
 /* iPad Portrait */
