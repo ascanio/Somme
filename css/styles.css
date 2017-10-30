@@ -181,9 +181,17 @@ a img {
   #footer ul {
     padding: 0 20px;
   }
+  #footer #links li {
+    display: block!important;
+    margin-bottom: 20px;
+    font-size: 24px!important;
+    font-weight: 100;
+  }
   #footer #copyright {
     padding: 20px 20px;
     position: static!important;
+    font-size: 24px!important;
+    font-weight: 100;
   }
   #contact {
     right: 30px!important;
