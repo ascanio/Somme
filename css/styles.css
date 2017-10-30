@@ -131,6 +131,22 @@ a img {
    768-480     - tablet
    480-less    - phone landscape & smaller
 --------------------------------------------*/
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+  #container {
+    width: 990px!important;
+  }
+  #mockup {
+    width: 990px!important;
+  }
+}
+@media all and (min-width: 768px) and (max-width: 1024px) {
+  #container {
+    width: 990px!important;
+  }
+  #mockup {
+    width: 990px!important;
+  }
+}
 /*------------------------------------------
   Foundation Media Queries
    http://foundation.zurb.com/docs/media-queries.html
@@ -161,6 +177,45 @@ a img {
 /* CSS for iPhone, iPad, and Retina Displays */
 /* Non-Retina */
 /* Retina */
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+  #container,
+  #header div,
+  #footer,
+  #mockup {
+    width: 100%!important;
+  }
+  #header {
+    padding: 40px;
+  }
+  #header h1 {
+    font-size: 64px!important;
+    margin-bottom: 40px!important;
+    line-height: 80px!important;
+  }
+  #header h2 {
+    font-size: 36px!important;
+    line-height: 56px!important;
+    margin-bottom: 60px!important;
+  }
+  #header p {
+    font-size: 36px!important;
+  }
+  #header p #apple {
+    width: 38px!important;
+    height: 48px!important;
+    background-size: 38px 48px!important;
+  }
+  #footer ul {
+    padding: 0 20px;
+  }
+  #footer #copyright {
+    padding: 20px 20px;
+    position: relative!important;
+  }
+  #contact {
+    right: 30px!important;
+  }
+}
 /* iPhone Portrait */
 /* iPhone Landscape */
 /* iPad Portrait */
@@ -253,12 +308,12 @@ a:hover {
   margin: 0 auto;
 }
 #container #footer {
-  width: 990px;
   margin: 40px auto 0 auto;
   text-align: left;
   color: rgba(255, 255, 255, 0.3);
   font-size: 12px;
   position: relative;
+  padding: 0 20px;
 }
 #container #footer #social {
   margin-bottom: 20px;
@@ -300,6 +355,6 @@ a:hover {
   display: block;
   color: rgba(255, 255, 255, 0.3);
   position: absolute;
-  right: 0px;
+  right: 20px;
   bottom: 0px;
 }
