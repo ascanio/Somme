@@ -150,7 +150,7 @@ a img {
 /* CSS for iPhone, iPad, and Retina Displays */
 /* Non-Retina */
 /* Retina */
-@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-width: 768px), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5) and (max-width: 1024px), only screen and (-o-min-device-pixel-ratio: 3/2), only screen and (min--moz-device-pixel-ratio: 1.5), only screen and (min-device-pixel-ratio: 1.5) {
   #container,
   #header div,
   #footer,
@@ -266,6 +266,10 @@ a:hover {
   background-size: 19px 24px;
   background-repeat: no-repeat;
   background-position: center;
+}
+#container #header p a {
+  color: #FF2D54;
+  text-decoration: underline;
 }
 #container #header #contact {
   position: absolute;
