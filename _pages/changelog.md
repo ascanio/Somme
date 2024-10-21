@@ -5,30 +5,37 @@ include_in_header: true
 ---
 
 # Changelog
-Here you can keep a changelog for your app. Edit the markdown based CHANGELOG.md which is located in the _pages directory. The changelog below is simply an example changelog that serves to exemplify how the markdown can be used. You can be as creative as you want with the markdown.
+Welcome to the changelog for Somme App! Here, we’ll keep you updated on the latest features, improvements, and bug fixes. Feel free to check this page often to stay up-to-date with our app's development.
 
 <br>
 
 ### `Latest`
 # **Version 2.0**
-This is the first update to our app. Jeez **goodness** by kept more sensually a much far proper exotically precise [here is a link](https://www.google.com) and and illicit hey uninspiring the more sat honey knelt before before bearish bowed lorikeet wolf grandly instead diligently and rhinoceros imperative.
+We’re excited to bring you this major update with new features and enhancements to improve your wine discovery experience. From wine scanning improvements to a smoother user interface, this version has it all!
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Enhanced wine bottle scanning with faster recognition and improved accuracy.
+- Personalized flavor profile recommendations tailored even more precisely to your preferences.
+- [Updated Privacy Policy](/privacypolicy) for more transparency in how we handle your data.
 
 #### Bug Fixes
-- Much far proper exotically precise unaccountable.
-- [Changes to Privacy Policy](/privacypolicy)
+- Fixed issues with wine image uploads causing slow performance.
+- Resolved a crash that occurred when saving favorite wines under certain conditions.
+- Improved overall app stability and reduced loading times.
 
 <br>
 
-### **Version 2.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+### **Version 1.1**
+This version brings small but meaningful improvements to the user interface and performance of the Somme App. We’ve also made changes based on your feedback.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
+- Added a "Favorites" section to allow quick access to your saved wines.
+- Improved wine recommendation algorithms for better results.
+- Minor UI tweaks for a more intuitive experience.
+
+#### Bug Fixes
+- Fixed a bug causing the wine scan history not to display correctly.
+- Resolved an issue with Google Sign-In for some users.
 
 <br>
 
@@ -37,29 +44,26 @@ ________
 
 ### `Initial Release`
 # **Version 1.0**
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh divisively wherever because jeepers until since as that goodness roadrunner insanely belated physic jeepers hey jeepers much the beside steadfastly up toward indubitably this goodness playful.
+The first release of Somme App! Discover wines by simply scanning bottles, get personalized flavor profiles, and explore a vast wine database. Your journey to finding the perfect wine starts here!
+
+#### What's New
+- Wine bottle scanning feature to recognize wines and retrieve details.
+- Create and manage your personalized flavor profile for tailored recommendations.
+- View wine history and save your favorite wines.
+- Google Sign-In integration for easy login.
 
 <br>
 
-## **Version 1.1**
-Abnormal and formidable against much the before well improper more spent far heron amicably iguana plainly swanky upon mammoth **much paid darn some tapir** some glared save crud more regarding one accommodating gosh cannily and on hungry a more goodness inside merry yikes wedded versus because some a a a shined anteater goldfinch jeez up so and this this a.
+## **Version 1.0.1**
+A small patch to address some early feedback and fix a few minor issues post-launch.
 
 #### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
-<br>
-
-## Version 1.0.1
-That wow robin one and gosh audibly darn that variously less across softly awakened under affectingly wildebeest from jeepers far contemplated and indisputably clung jeepers much mistaken some after mumbled hey certain neatly far alas more trod the swelled rolled permissively so save pert the tapir paradoxical off so then juggled crud a however overslept vehemently kept indisputably anteater walked alas or into.
-
-#### What's New
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-- Much far proper exotically precise unaccountable.
-
+- Improved the user experience for scanning wine bottles.
+- Enhanced the onboarding process for new users.
+  
 #### Bug Fixes
-- Improved user sign up experience.
-- Unlike deliberately zebra hen oh jeez understandable. Alas and quit oh snooty unlike deliberately.
+- Fixed an issue causing occasional crashes on wine scan.
+- Resolved a problem with saving user preferences.
+- General performance improvements and bug fixes.
 
 <br>
