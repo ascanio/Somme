@@ -58,7 +58,7 @@ features                                  :
 
   - title                                 : Google Sign-In Support
     description                           : Easily sign in using your Google account to access all your wine recommendations and favorites.
-    fontawesome_icon_name                 : google
+    fontawesome_icon_name                 : user-circle
 
   - title                                 : Image and Video Support
     description                           : Take and upload photos or videos of your wine scans for better recommendations and analysis.
