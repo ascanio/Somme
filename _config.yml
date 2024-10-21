@@ -20,13 +20,13 @@ enable_smart_app_banner                   : true                                
 
 
 # Information About Yourself
-your_name                                 : Jaime de Ascanio                                
-your_link                                 : https://sommeapp.com                     
-your_city                                 : Madrid                                
+your_name                                 :                              
+your_link                                 :                    
+your_city                                 :                              
 email_address                             : info@sommeapp.com
 facebook_username                         :                                           
-instagram_username                        : ascanio
-twitter_username                          : de_ascanio
+instagram_username                        : 
+twitter_username                          : 
 github_username                           : 
 youtube_username                          :
 mastodon_link                             : 
