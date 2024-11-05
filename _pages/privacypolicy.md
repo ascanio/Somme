@@ -57,9 +57,19 @@ The App may contain links to third-party websites or services that are not opera
 
 We may update our Privacy Policy from time to time. We will notify you of any significant changes by posting the new Privacy Policy on this page, and we will update the "Last Updated" date.
 
-### 8. Contact Us
+### 8. Company Details
+
+**Company Name:** Ascano Labs, LLC  
+**Entity Type:** Delaware LLC   
+**Incorporation Date:** October 7, 2024  
+**Contact Representative:** Jaime Alejandro de Ascanio Heredero  
+**Company Phone Number:** (740) 272-5752  
+**Company Address:** 1111B S Governors Ave STE 23580, Dover, DE 19904, US  
+
+### 9. Contact Us
 
 If you have any questions or concerns about this Privacy Policy, please contact us at:
-- Email: info@sommeapp.com
+- **Email:** info@sommeapp.com  
+- **Phone:** (740) 272-5752
 
 ---
