@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 include_in_header: false
+nav_order: 4
 ---
 
 **Privacy Policy**
