@@ -9,7 +9,7 @@ nav_order: 4
 
 _Last Updated: 21 October 2024_
 
-Somme App ("we", "us", or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and disclose your information when you use the Somme App ("App") and the services provided within the App. By using our services, you agree to the collection and use of information in accordance with this Privacy Policy.
+Somme App ("we", "us", or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and disclose your information when you use the Somme App ("App") and the services provided within the App. By using our services, you agree to the collection and use of information in accordance with this Privacy Policy and our [Terms of Use (EULA)](/termsofuse).
 
 ### 1. Information We Collect
 

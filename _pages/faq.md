@@ -54,7 +54,7 @@ You can sign up using:
 - Apple ID (coming soon)
 
 #### Is my data secure?
-Yes! We take your privacy seriously. All your data is encrypted and stored securely. You can read our detailed [Privacy Policy](/privacypolicy) for more information.
+Yes! We take your privacy seriously. All your data is encrypted and stored securely. You can read our detailed [Privacy Policy](/privacypolicy) and [Terms of Use](/termsofuse) for more information.
 
 #### How can I delete my account?
 You can request account deletion through the app's settings menu or by contacting our support team at info@sommeapp.com.
