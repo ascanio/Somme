@@ -42,7 +42,6 @@ This update brings greater control, seamless sharing, enhanced accessibility, an
 ---
 <br>
 
-### `Latest`
 # **Version 1.1.1**
 We’re excited to bring you this major update with new features and enhancements to improve your wine discovery experience. From wine scanning improvements to a smoother user interface, this version has it all!
 
