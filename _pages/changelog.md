@@ -10,8 +10,40 @@ Welcome to the changelog for Somme App! Here, we’ll keep you updated on the la
 
 <br>
 
+### **Version 1.2**
+We’re thrilled to introduce new features, updates, and improvements designed to enhance your wine discovery journey further.
+
+#### What's New
+- **New Sharing Features**: Added a large, prominent share button, and a new customizable, shareable image format to make sharing your wine discoveries easier and more engaging.
+- **Apple Sign-In and Account Management**: Introduced Apple Sign-In, updated Terms of Use and Privacy Policy, and added an option to delete your account for enhanced account control.
+- **iPhone Optimization**: Adjustments made for optimal display on iPhone only (iPad support removed).
+- **PRO Label and Real-Time Updates**: Added a PRO label for premium users along with an instant callback for live updates on changes.
+- **Updated App Icons**: Fresh, modern app icons to better represent the Somme experience.
+- **New Subscription Options**: Integrated subscriptions with Superwall and RevenueCat to access exclusive features.
+- **Paywall in Account View**: Users can now manage their subscriptions directly from the account view.
+
+#### Improvements
+- **Translation Enhancements**: Comprehensive language updates and fixes for a more inclusive user experience.
+- **Optimized for Small Screens**: Visual adjustments and layout improvements to ensure smooth functionality on smaller screens.
+- **Empty States and UI Fixes**: Enhanced empty states for a clearer experience when no data is available, plus minor UI adjustments for a polished interface.
+- **Display Name Fix**: Corrected app display name from “Summe” to “Somme.”
+
+#### Bug Fixes
+- **Translation Consistency**: Fixed multiple translation issues across the app for accurate language presentation.
+- **Minor Prompt and Text Fixes**: Tweaked prompts and corrected minor typos in various sections.
+- **Analytics and Ad Updates**: Added new analytics events and updated Google Ads IDs for improved insights and monetization.
+
+---
+
+This update brings greater control, seamless sharing, enhanced accessibility, and refined functionality to make your wine exploration even more enjoyable. Enjoy the latest features, and happy wine discovering!
+
+<br>
+
+________
+<br>
+
 ### `Latest`
-# **Version 2.0**
+# **Version 1.1.1**
 We’re excited to bring you this major update with new features and enhancements to improve your wine discovery experience. From wine scanning improvements to a smoother user interface, this version has it all!
 
 #### What's New
