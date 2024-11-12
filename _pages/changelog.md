@@ -10,7 +10,8 @@ Welcome to the changelog for Somme App! Here, we’ll keep you updated on the la
 
 <br>
 
-### **Version 1.2**
+### `Latest`
+# **Version 1.2**
 We’re thrilled to introduce new features, updates, and improvements designed to enhance your wine discovery journey further.
 
 #### What's New
@@ -33,13 +34,12 @@ We’re thrilled to introduce new features, updates, and improvements designed t
 - **Minor Prompt and Text Fixes**: Tweaked prompts and corrected minor typos in various sections.
 - **Analytics and Ad Updates**: Added new analytics events and updated Google Ads IDs for improved insights and monetization.
 
----
 
 This update brings greater control, seamless sharing, enhanced accessibility, and refined functionality to make your wine exploration even more enjoyable. Enjoy the latest features, and happy wine discovering!
 
 <br>
 
-________
+---
 <br>
 
 ### `Latest`
@@ -72,7 +72,7 @@ This version brings small but meaningful improvements to the user interface and 
 
 <br>
 
-________
+---
 <br>
 
 ### `Initial Release`
